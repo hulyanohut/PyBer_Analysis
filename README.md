@@ -1,9 +1,10 @@
-# PyBer__Analysis
+# PyBer_Analysis
 
 ## Overview of the analysis:
 
-V. Isualize has given me and Omar a brand-new assignment. Using my Python skills and knowledge of Pandas, I created a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, I created a multiple-line graph that shows the total weekly fares for each city type. Finally, I submitted a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
-picture
+V. Isualize has given me and Omar a brand-new assignment. Using my  skills and knowledge of Pandas, I created a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, I created a multiple-line graph that shows the total weekly fares for each city type. Finally, I submitted a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+
+[PyBer_Analysis](PyBer_Analysis2.png.svg.png)
 
 - Urban cities have the highest number of rides and highest number of drivers.
 
@@ -15,7 +16,7 @@ picture
 
 - Urban cities have the most drivers but have the lowest average of fare per ride and fare per driver
 
-picture
+ [PyBer_Analysis](PyBer_Analysis1.png.svg.png)
 
 - During 2019 between January and April we analyzed for the total fare for each of the city type and we can quickly observe that Urban city types had the highest total fares for all the weeks and rural areas had the least.
 
